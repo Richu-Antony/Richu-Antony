@@ -20,7 +20,7 @@
 
 ## 🚀 Languages and Tools
 
-<p align="left">
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>
@@ -113,7 +113,7 @@
 <a href="https://github.com/Richu-Antony/github-readme-activity-graph"><img alt="Richu Antony's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Richu-Antony&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br><br>
 
-## 🔁Connect with me
+## 🔁 Connect with me
 <p align="left">
 <a href = "https://www.linkedin.com/in/richu-antony-a12817200/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
