@@ -3,10 +3,12 @@
 <a href="#">
   <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png"/>
 </a><br>
-<h1 align="center">Hi
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, I'm Richu Antony
-</h1>
-<br>
+<h1 align="center">
+  Hi
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="40" height="40" /> 
+  I'm Richu Antony
+</h1><br>
+
 
 
 
@@ -125,7 +127,6 @@
 
 
 <!-- Github Trophy Section -->
-<!-- https://github.com/ryo-ma/github-profile-trophy -->
 <!-- <h2 align="center">🏆 GitHub Trophies</h2> -->
 <p align="center">
   <a href="#">
@@ -148,8 +149,7 @@
 
 - ⚡ Here's a fun fact: **Did you know that honey never spoils? Archaeologists have even found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible. It's one of the few foods that truly has an eternal shelf life!**
 
-- 📃 More about me **[Resume](https://drive.google.com/file/d/1G_dCyHVHJ4aEFGfGBoKqeEEkqKWABHxQ/view?usp=sharing)**
-
+- 📃 More about me **[resume](https://drive.google.com/file/d/1G_dCyHVHJ4aEFGfGBoKqeEEkqKWABHxQ/view?usp=sharing)**
 
 
 
