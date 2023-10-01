@@ -247,9 +247,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&labelColor=black&logo=Firebase&logoColor=white"/>
   </a>&nbsp;
-
   <br><br>
-
   <!-- OS -->
   <a href="Windows 11">
     <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&labelColor=black&logo=Windows%2011&logoColor=230079d5"/>
@@ -275,11 +273,7 @@
   <!-- <a href="Chrome OS">
     <img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&labelColor=black&logo=google%20chrome&logoColor=3d89fc"/>
   </a>&nbsp; -->
-
-
   <br><br>
-
-
   <!-- IDE -->
   <a href="Notepad++">
     <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&labelColor=black&logo=notepad%2b%2b&logoColor=90E59A"/>
@@ -317,11 +311,7 @@
   <!-- <a href="PhpStorm">
     <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"/>
   </a>&nbsp; -->
-
-
   <br><br>
-
-
   <!-- Frameworks -->
   <a href=".Net">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&labelColor=black&logo=.net&logoColor=5C2D91"/>
@@ -344,11 +334,7 @@
   <a href="Nodemon">
     <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&labelColor=black&logo=nodemon&logoColor=%BBDEAD"/>
   </a>&nbsp;
-
-
   <br><br>
-
-
   <!-- Software -->
   <a href="Microsoft_Office">
     <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&labelColor=black&logo=microsoft-office&logoColor=D83B01"/>
@@ -383,11 +369,7 @@
   <a href="Inkscape">
     <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&labelColor=black&logo=inkscape&logoColor=e0e0e0"/>
   </a>&nbsp;
-
-
   <br><br>
-
-
   <!-- Usefull Sites -->
   <a href="Codesandbox">
     <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&labelColor=black&logo=codesandbox&logoColor=DBDBDB"/>
@@ -428,11 +410,7 @@
   <a href="Skill Share">
     <img src="https://img.shields.io/badge/Skill%20share-002333?style=for-the-badge&labelColor=black&logo=skillshare&logoColor=00FF84"/>
   </a>&nbsp;
-
-
   <br><br>
-
-
   <!-- Gaming -->
   <a href="Battle">
     <img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF"/>
@@ -468,35 +446,39 @@
 
 <!-- MY Github Stats -->
 <br><br>
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-    <a href="">
-        <img alt="Richu-Antony's streak" src="https://streak-stats.demolab.com/?user=Richu-Antony&theme=dark&hide_border=true"/>
+    <a href="#">
+      <img alt="Richu-Antony's streak" src="https://streak-stats.demolab.com/?user=Richu-Antony&theme=dark&hide_border=true"/>
+    </a><br>
+    <a href="#">
+      <img alt="Richu-Antony's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Richu-Antony&theme=dark&show_icons=true&hide_border=true" />
+    </a><br>
+    <a href="#">
+      <img alt="" src="https://github-contributor-stats.vercel.app/api?username=Richu-Antony&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+    </a><br>
+    <a href="#">
+      <img alt="" src="https://github-readme-activity-graph.cyclic.app/graph?username=Richu-Antony&theme=merko&hide_border=true" />
     </a>
 </p>
 
 
-# 📊 Stats
 
+<br><br>
 <p align="center">
-  <a href="">
-    <img alt="Richu-Antony's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Richu-Antony&theme=dark&show_icons=true&hide_border=true" />
-  </a>
-  <br><br>
-  <a href="">
-    <img alt="" src="https://github-readme-activity-graph.cyclic.app/graph?username=Richu-Antony&theme=merko&hide_border=true" />
-  </a>
-  <br><br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br><br>
   <a href="">
-    <img width="60%" alt="Richu-Antony's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richu-Antony&langs_count=10&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" />
+    <img width="60%" height="200px" alt="Richu-Antony's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richu-Antony&langs_count=10&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" />
   </a>
-  <br>
+<br>
 </p>
+
+
+
 
 <!-- Support -->
 #
-
 # ❤️ Support
 
 <p align="center">
