@@ -136,6 +136,7 @@
 
 
 
+
 <!-- About Me -->
 #
 # 🙋‍♂️ About Me
@@ -153,75 +154,108 @@
 
 
 
+
 <!--  Languages and Tools -->
 #
 # 🚀 Languages and Tools
 <p align="center">
-<!-- Languages -->
-  <a href="HTML">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26"/>
+  <!-- C -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&labelColor=black&logo=C&logoColor=A8B9CC"/>
   </a>&nbsp;
-  <a href="CSS">
-    <img src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6"/>
-  </a>&nbsp;
-  <a href="Javascript">
-    <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"/>
-  </a>&nbsp;
-  <a href="Php">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4"/>
-  </a>&nbsp;
-  <a href="MySQL">
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white"/>
-  </a>&nbsp;
-  <a href="Bootstrap">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=white"/>
-  </a>&nbsp;
-  <a href="jQuery">
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&labelColor=black&logo=jquery&logoColor=0769AD"/>
-  </a>&nbsp;
-  <a href="C">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&labelColor=black&logo=c&logoColor=A8B9CC"/>
-  </a>&nbsp;
-  <a href="C++">
+  <!-- C++ -->
+  <a href="#">
     <img src="https://img.shields.io/badge/C%2B%2B-239120?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=239120"/>
   </a>&nbsp;
-  <a href="Java">
+  <!-- C# -->
+  <!-- <a href="#">
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&&labelColor=black&logo=c-sharp&logoColor=white"/>
+  </a>&nbsp; -->
+  <!-- Java -->
+  <a href="#">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=ED8B00"/>
   </a>&nbsp;
-  <a href="Python">
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&labelColor=black&logo=python&logoColor=14354C"/>
+  <!-- Python -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&labelColor=yellow&logo=python&logoColor=14354C"/>
   </a>&nbsp;
-  <a href="sqlite">
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=07405E"/>
-  </a>&nbsp;
-  <a href="MongoDB">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B"/>
-  </a>&nbsp;
-  <a href="Shell Script">
-    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  </a>&nbsp;
-  <a href="Powershell">
-    <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&labelColor=black&logo=powershell&logoColor=2CA5E0"/>
-  </a>&nbsp;
-  <a href="Firebase">
-    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&labelColor=black&logo=Firebase&logoColor=white"/>
-  </a>&nbsp;
-  <a href="Kotlin">
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&labelColor=black&logo=kotlin&logoColor=0095D5"/>
-  </a>&nbsp;
-  <a href="Dart">
+  <!-- Dart -->
+  <a href="#">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&labelColor=black&logo=dart&logoColor=0175C2"/>
   </a>&nbsp;
+  <!-- HTML -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26"/>
+  </a>&nbsp;
+  <!-- Markdown -->
   <a href="Markdown">
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&labelColor=black&logo=markdown&logoColor=23000000"/>
   </a>&nbsp;
-  <a href="Windows Terminal">
-    <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&labelColor=black&logo=windows-terminal&logoColor=234D4D4D"/>
+  <!-- CSS -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6"/>
   </a>&nbsp;
+  <!-- Javascript -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"/>
+  </a>&nbsp;
+  <!-- Php -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4"/>
+  </a>&nbsp;
+  <!-- MySQL -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white"/>
+  </a>&nbsp;
+  <!-- Bootstrap -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=white"/>
+  </a>&nbsp;
+  <!-- jQuery -->
+  <!-- <a href="#">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&labelColor=black&logo=jquery&logoColor=0769AD"/>
+  </a>&nbsp; -->
+  <!-- sqlite -->
+  <!-- <a href="#">
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=07405E"/>
+  </a>&nbsp; -->
+  <!-- MongoDB -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B"/>
+  </a>&nbsp;
+  <!-- Kotlin -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&labelColor=black&logo=kotlin&logoColor=0095D5"/>
+  </a>&nbsp;
+  <!-- Swift -->
+  <!-- <a href="#">
+    <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&labelColor=black&logo=swift&logoColor=white"/>
+  </a>&nbsp; -->
+  <!-- TypeScript -->
+  <!-- <a href="#">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&labelColor=orange&logo=typescript&logoColor=white"/>
+  </a>&nbsp; -->
+  <!-- Powershell -->
+  <a href="Powershell">
+    <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&labelColor=black&logo=powershell&logoColor=2CA5E0"/>
+  </a>&nbsp;
+  <!-- Shell Script -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  </a>&nbsp;
+  <!-- Firebase -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&labelColor=black&logo=Firebase&logoColor=white"/>
+  </a>&nbsp;
+
   <br><br>
+
   <!-- OS -->
   <a href="Windows 11">
     <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&labelColor=black&logo=Windows%2011&logoColor=230079d5"/>
+  </a>&nbsp;
+  <a href="Windows Terminal">
+    <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&labelColor=black&logo=windows-terminal&logoColor=234D4D4D"/>
   </a>&nbsp;
   <a href="Ubuntu">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=E95420"/>
@@ -241,8 +275,18 @@
   <!-- <a href="Chrome OS">
     <img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&labelColor=black&logo=google%20chrome&logoColor=3d89fc"/>
   </a>&nbsp; -->
+
+
   <br><br>
+
+
   <!-- IDE -->
+  <a href="Notepad++">
+    <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&labelColor=black&logo=notepad%2b%2b&logoColor=90E59A"/>
+  </a>&nbsp;
+  <a href="Visual Studio Code">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=0078d7"/>
+  </a>&nbsp;
   <a href="Android Studio">
     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&labelColor=black&logo=android-studio&logoColor=3DDC84"/>
   </a>&nbsp;
@@ -255,9 +299,6 @@
   <a href="NetBeansIDE">
     <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&labelColor=black&logo=apache-netbeans-ide&logoColor=1B6AC6"/>
   </a>&nbsp;
-  <a href="Notepad++">
-    <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&labelColor=black&logo=notepad%2b%2b&logoColor=90E59A"/>
-  </a>&nbsp;
   <a href="PyCharm">
     <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&labelColor=green&logo=pycharm&logoColor=black&color=black"/>
   </a>&nbsp;
@@ -266,9 +307,6 @@
   </a>&nbsp;
   <a href="VIM">
     <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&labelColor=black&logo=vim&logoColor=2311AB00"/>
-  </a>&nbsp;
-  <a href="Visual Studio Code">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=0078d7"/>
   </a>&nbsp;
   <a href="Visual Studio">
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&labelColor=black&logo=visual-studio&logoColor=5C2D91"/>
@@ -279,7 +317,11 @@
   <!-- <a href="PhpStorm">
     <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"/>
   </a>&nbsp; -->
+
+
   <br><br>
+
+
   <!-- Frameworks -->
   <a href=".Net">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&labelColor=black&logo=.net&logoColor=5C2D91"/>
@@ -302,7 +344,11 @@
   <a href="Nodemon">
     <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&labelColor=black&logo=nodemon&logoColor=%BBDEAD"/>
   </a>&nbsp;
+
+
   <br><br>
+
+
   <!-- Software -->
   <a href="Microsoft_Office">
     <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&labelColor=black&logo=microsoft-office&logoColor=D83B01"/>
@@ -337,7 +383,11 @@
   <a href="Inkscape">
     <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&labelColor=black&logo=inkscape&logoColor=e0e0e0"/>
   </a>&nbsp;
+
+
   <br><br>
+
+
   <!-- Usefull Sites -->
   <a href="Codesandbox">
     <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&labelColor=black&logo=codesandbox&logoColor=DBDBDB"/>
@@ -378,7 +428,11 @@
   <a href="Skill Share">
     <img src="https://img.shields.io/badge/Skill%20share-002333?style=for-the-badge&labelColor=black&logo=skillshare&logoColor=00FF84"/>
   </a>&nbsp;
+
+
   <br><br>
+
+
   <!-- Gaming -->
   <a href="Battle">
     <img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF"/>
@@ -407,16 +461,19 @@
   <a href="Unreal Engine">
     <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
   </a>&nbsp;
-  <br><br>
 </p>
+
+
+
+
+<!-- MY Github Stats -->
+<br><br>
 <p align="center">
     <a href="">
         <img alt="Richu-Antony's streak" src="https://streak-stats.demolab.com/?user=Richu-Antony&theme=dark&hide_border=true"/>
     </a>
 </p>
 
-<!-- MY Github Stats -->
-#
 
 # 📊 Stats
 
