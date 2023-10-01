@@ -1,11 +1,12 @@
 
 <!-- Header Section -->
-<a href="https://www.linkedin.com/in/richu-antony-a12817200/">
+<a href="#">
   <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png"/>
 </a><br>
 <h1 align="center">Hi
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Richu Antony
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, I'm Richu Antony
 </h1>
+<br>
 
 
 
@@ -124,19 +125,13 @@
 
 
 <!-- Github Trophy Section -->
-<h2 align="center">🏆 GitHub Trophies</h2>
+<!-- https://github.com/ryo-ma/github-profile-trophy -->
+<!-- <h2 align="center">🏆 GitHub Trophies</h2> -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=richu-antony" alt="Github Trophy" />
+  <a href="#">
+    <img src="https://github-profile-trophy.vercel.app/?username=richu-antony&theme=onestar&no-frame=true&no-bg=false&margin-w=4&row=1&column=5" alt="Github Trophy" />
   </a>
 </p>
-
-
-
-
-![](https://github-profile-trophy.vercel.app/?username=Richu-Antony&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-
 
 
 
