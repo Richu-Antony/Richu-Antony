@@ -139,20 +139,23 @@
 #
 # 🙋‍♂️ About Me
 - 🔭 I’m currently working on an **Dev app**
+
 - 👯 I’m looking to collaborate on various projects
+
 - 🌱 I’m currently learning and developing **Flutter, Shell Scripts, React**
+
 - 🤝 I’m looking for help with join projects
+
 - ⚡ Here's a fun fact: **Did you know that honey never spoils? Archaeologists have even found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible. It's one of the few foods that truly has an eternal shelf life!**
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1G_dCyHVHJ4aEFGfGBoKqeEEkqKWABHxQ/view?usp=sharing)**
+
+- 📃 More about me **[Resume](https://drive.google.com/file/d/1G_dCyHVHJ4aEFGfGBoKqeEEkqKWABHxQ/view?usp=sharing)**
 
 
 
 
 <!--  Languages and Tools -->
 #
-
 # 🚀 Languages and Tools
-
 <p align="center">
 <!-- Languages -->
   <a href="HTML">
