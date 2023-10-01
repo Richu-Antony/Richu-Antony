@@ -117,10 +117,10 @@
   <a href="#">
     <img src="https://img.shields.io/github/followers/Richu-Antony?label=Followers" alt="GitHub Badge"/>
   </a>
-  <a href="#">
+  <!-- <a href="#">
     <img src="https://img.shields.io/github/downloads/Richu-Antony/Richu-Antony/total?" alt="GitHub Badge">
-  </a>
-</p>
+  </a> -->
+</p><br>
 
 
 
@@ -129,7 +129,7 @@
 <!-- <h2 align="center">🏆 GitHub Trophies</h2> -->
 <p align="center">
   <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=richu-antony&theme=onestar&no-frame=true&no-bg=false&margin-w=4&row=1&column=5" alt="Github Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=richu-antony&theme=onestar&no-frame=false&no-bg=false&margin-w=4&row=1&column=5" alt="Github Trophy" />
   </a>
 </p>
 
