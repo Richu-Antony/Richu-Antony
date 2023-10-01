@@ -445,8 +445,8 @@
 
 
 <!-- MY Github Stats -->
+#
 # 📊 GitHub Stats
-<!-- <h2 align="center"></h2> -->
 <p align="center">
     <a href="#">
       <img alt="Richu-Antony's streak" src="https://streak-stats.demolab.com/?user=Richu-Antony&theme=dark&hide_border=true"/>
@@ -459,8 +459,9 @@
     </a><br><br>
     <a href="#">
       <img alt="" src="https://github-readme-activity-graph.cyclic.app/graph?username=Richu-Antony&theme=merko&hide_border=true" />
-    </a><br><br>
+    </a>
 </p>
+<br>
 <p align="center">
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br><br>
@@ -484,7 +485,6 @@
 <!-- Support -->
 #
 # ❤️ Support
-
 <p align="center">
   <a href="">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffe" />
