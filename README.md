@@ -445,34 +445,38 @@
 
 
 <!-- MY Github Stats -->
-<br><br>
-<h2 align="center">📊 GitHub Stats</h2>
+# 📊 GitHub Stats
+<!-- <h2 align="center"></h2> -->
 <p align="center">
     <a href="#">
       <img alt="Richu-Antony's streak" src="https://streak-stats.demolab.com/?user=Richu-Antony&theme=dark&hide_border=true"/>
-    </a><br>
+    </a><br><br>
     <a href="#">
       <img alt="Richu-Antony's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Richu-Antony&theme=dark&show_icons=true&hide_border=true" />
-    </a><br>
+    </a><br><br>
     <a href="#">
-      <img alt="" src="https://github-contributor-stats.vercel.app/api?username=Richu-Antony&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-    </a><br>
+      <img alt="" src="https://github-contributor-stats.vercel.app/api?username=Richu-Antony&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true" />
+    </a><br><br>
     <a href="#">
       <img alt="" src="https://github-readme-activity-graph.cyclic.app/graph?username=Richu-Antony&theme=merko&hide_border=true" />
-    </a>
+    </a><br><br>
 </p>
-
-
-
-<br><br>
 <p align="center">
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br><br>
   <a href="">
     <img width="60%" height="200px" alt="Richu-Antony's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richu-Antony&langs_count=10&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" />
-  </a>
-<br>
+  </a><br>
 </p>
+
+
+
+
+<!-- Dev Quote -->
+#
+# ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 
