@@ -5,12 +5,9 @@
 </a><br>
 <h1 align="center">
   Hi
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="40" height="40" /> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="40" height="40" />
   I'm Richu Antony
 </h1><br>
-
-
-
 
 <!-- Social Section -->
 <p align="center">
@@ -92,12 +89,8 @@
   </a>&nbsp; -->
 </p>
 
-
-
 <!-- Content Section -->
 <h3 align="center">I'm a passionate Developer from India.</h3>&nbsp;
-
-
 
 <!-- Git Status Section -->
 <p align="center">
@@ -124,8 +117,6 @@
   </a> -->
 </p><br>
 
-
-
 <!-- Github Trophy Section -->
 <!-- <h2 align="center">🏆 GitHub Trophies</h2> -->
 <p align="center">
@@ -134,12 +125,11 @@
   </a>
 </p>
 
-
-
-
 <!-- About Me -->
 #
+
 # 🙋‍♂️ About Me
+
 - 🔭 I’m currently working on an **Dev app**
 
 - 👯 I’m looking to collaborate on various projects
@@ -152,12 +142,11 @@
 
 - 📃 More about me **[resume](https://drive.google.com/file/d/1G_dCyHVHJ4aEFGfGBoKqeEEkqKWABHxQ/view?usp=sharing)**
 
-
-
-
 <!--  Languages and Tools -->
 #
+
 # 🚀 Languages and Tools
+
 <p align="center">
   <!-- C -->
   <a href="#">
@@ -441,12 +430,11 @@
   </a>&nbsp;
 </p>
 
-
-
-
 <!-- MY Github Stats -->
 #
+
 # 📊 GitHub Stats
+
 <p align="center">
     <a href="#">
       <img alt="Richu-Antony's streak" src="https://streak-stats.demolab.com/?user=Richu-Antony&theme=dark&hide_border=true"/>
@@ -459,15 +447,12 @@
     </a><br><br>
     <a href="#">
       <img alt="" src="https://github-readme-activity-graph.cyclic.app/graph?username=Richu-Antony&theme=merko&hide_border=true" />
-    </a>
-</p>
-<br>
-<p align="center">
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  <br><br>
-  <a href="">
-    <img width="60%" height="200px" alt="Richu-Antony's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richu-Antony&langs_count=10&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" />
-  </a><br>
+    </a><br><br>
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+    <br><br>
+    <a href="">
+      <img width="60%" height="200px" alt="Richu-Antony's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richu-Antony&langs_count=10&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" />
+    </a><br>
 </p>
 
 
@@ -476,15 +461,21 @@
 <!-- Dev Quote -->
 #
 # ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<p align="center">
+  <a href="#">
+      <img alt="" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  </a>
+</p>
 
 
 
 
 <!-- Support -->
 #
+
 # ❤️ Support
+
 <p align="center">
   <a href="">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffe" />
